@@ -2,7 +2,7 @@
 __Descubra 🤫__
 
 ## Meu status no Github
-https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical
+
 
 ## Links
 - [Youtube](https://www.youtube.com/channel/UCVFBY7RDx90e9JTK7MZ-Rrg)
