@@ -24,7 +24,6 @@ I work developing useful functions for my day-to-day, with the languages ​​t
 ### My Most Important Projects:
 
 - [WarCord](https://github.com/Warcord/WarCord-Lib)
-- [Discloud-API](https://github.com/GardZock/Discloud-API)
 
 ## Contacts
 - Discord
