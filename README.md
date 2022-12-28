@@ -10,7 +10,7 @@ I work developing useful functions for my day-to-day, with the languages ​​t
 ### Other languages ​​I used:
 
 - [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/pt-BR/dotnet/csharp/) **- 6 Months**
-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) **- 4 Months**
+- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org) **- 8 Months**
 
 
 ### Tools I used:
@@ -24,10 +24,10 @@ I work developing useful functions for my day-to-day, with the languages ​​t
 ### My Most Important Projects:
 
 - [WarCord](https://github.com/Warcord/WarCord-Lib)
-- [Discloud-API](https://github.com/GardZock/Discloud-API)
 
 ## Contacts
 - Discord
   - **GardZock#2247**
 - Email
   - **gardzock.contato@gmail.com**
+- [My Site](https://gardzock-dev.vercel.app/) (Beta)
