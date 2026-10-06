@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=GardZock&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="MiguelTurco trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=GardZock&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GardZock trophies" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/MiguelTurco">
+  <a href="https://github.com/GardZock">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GardZock&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
   </a>
 </p>
